@@ -71,7 +71,7 @@ Métodos
 Superclases y Subclases
 cada sesión con calentamiento, desarrollo y cierre, recursos y evidencias de aprendizaje, es de 12 semanas, por lo tanto 24 sesiones. El calentamiento, desarrollo y cierre necesitan tener 120 palabras en cada parte. La sesión necesita escribirse en tercera persona.
 
-# Prompt for english teachers plans 
+# Prompt para planeaciones de maestros 
 
  Actúa como un profesor de primer año de secundaria y elabora una planificación basada en el propósito de que: Los estudiantes definan la interculturalidad crítica: 
     
