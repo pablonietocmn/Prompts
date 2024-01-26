@@ -69,7 +69,7 @@ Perros y Gatos
 Funciones Definidas por el Programador
 Métodos
 Superclases y Subclases
-cada sesión con calentamiento, desarrollo y cierre, recursos y evidencias de aprendizaje, es de 12 semanas, por lo tanto 24 sesiones. El calentamiento, desarrollo y cierre necesitan tener 120 palabras en cada parte. La sesión necesita escribirse en tercera persona.
+cada sesión con inicio, desarrollo y cierre, recursos y evidencias de aprendizaje, es de 12 semanas, por lo tanto 24 sesiones. El inicio, desarrollo y cierre necesitan tener 120 palabras en cada parte. La sesión necesita escribirse en tercera persona.
 
 # Prompt 
 
@@ -77,11 +77,11 @@ cada sesión con calentamiento, desarrollo y cierre, recursos y evidencias de ap
     Aquí debes anotar las actividades y objetivos de tu clase.
     , donde se cubrirán los siguientes temas: 
     Aquí debes escribir los temas del parcial o trimestre.
-    cada sesión con calentamiento, desarrollo y cierre, recursos y evidencias de aprendizaje, es
+    cada sesión con inicio, desarrollo y cierre, recursos y evidencias de aprendizaje, es
     ¿Cuántas semanas durará tu curso?
     semanas, por lo tanto.
     ¿Cuántas sesiones habrá en tu curso?
-    sesión. El calentamiento, desarrollo y cierre necesitan tener 120 palabras en cada parte. La sesión debe escribirse en tercera persona.
+    sesión. El inicio, desarrollo y cierre necesitan tener 120 palabras en cada parte. La sesión debe escribirse en tercera persona.
 
 # Explicación del Prompt para planeaciones de maestros 
 
@@ -93,7 +93,7 @@ cada sesión con calentamiento, desarrollo y cierre, recursos y evidencias de ap
 
     Aquí debes escribir los temas del parcial o trimestre.
 
-cada sesión con calentamiento, desarrollo y cierre, recursos y evidencias de aprendizaje, es
+cada sesión con inicio, desarrollo y cierre, recursos y evidencias de aprendizaje, es
  
     ¿Cuántas semanas durará tu curso?
 
@@ -101,7 +101,7 @@ semanas, por lo tanto.
     
     ¿Cuántas sesiones habrá en tu curso?
 
-sesión. El calentamiento, desarrollo y cierre necesitan tener 120 palabras en cada parte. La sesión debe escribirse en tercera persona.
+sesión. El inicio, desarrollo y cierre necesitan tener 120 palabras en cada parte. La sesión debe escribirse en tercera persona.
 
 
 
